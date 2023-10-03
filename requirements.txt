@@ -1,0 +1,5 @@
+# For NoteBook 1
+pandas
+numpy
+requests
+datetime
