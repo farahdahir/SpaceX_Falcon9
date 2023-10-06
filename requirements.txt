@@ -3,3 +3,13 @@ pandas
 numpy
 requests
 datetime
+
+# For NoteBook 2
+matplotlib.pyplot
+seaborn
+
+# For NoteBook 3
+folium
+folium.plugins - MarkerCluster  
+folium.plugins - MousePosition
+folium.features - DivIcon 
