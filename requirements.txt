@@ -1,22 +1,10 @@
-# For NoteBook 1
 pandas
 numpy
 requests
 datetime
-
-# For NoteBook 2
-matplotlib.pyplot
+matplotlib
 seaborn
-
-# For NoteBook 3
 folium
-folium.plugins - MarkerCluster  
-folium.plugins - MousePosition
-folium.features - DivIcon
-
-#For NoteBook 4
 dash
-from dash import html
-from dash import dcc
-from dash.dependencies import Input, Output
-plotly.express
+plotly
+sklearn
