@@ -19,3 +19,4 @@ Before building of predictive models, determination of training labels, data sta
 ![Accuracy score of the models](images/models_accuracy_score.png)
 
 # Conclusion
+This project not only predicts Falcon 9 `first stage landings` but also highlights the significant `cost-saving` potential associated with successful landings. SpaceX's competitive advantage in offering cost-effective rocket launches hinges on this ability to reuse the first stage. In the future, adding more information like `weather-related` data since weather conditions can significantly influence the outcome of a rocket launch, may contribute to enhanced decision-making and mission success in space exploration efforts.
