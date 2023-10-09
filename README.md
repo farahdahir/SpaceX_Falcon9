@@ -14,3 +14,4 @@ The dataset for the SpaceX Falcon 9 First Stage Landing Prediction project is so
 Additionally, launch sites were analyzed to find that all SpaceX sites are located on U.S. coasts, near railways and highways, while maintaining a safe distance from cities. `Feature engineering` was done to obtained important variables that would affect the success rate.
 
 # Modeling and Evaluation
+Using GridSearch, found the best hyperparameter for SVM, Classification Trees, Logistic Regression and KNN.
