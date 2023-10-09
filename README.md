@@ -32,5 +32,8 @@ This project not only predicts Falcon 9 `first stage landings` but also highligh
 
   # Reviewing the Project
   The project follows a storytelling structure and should be reviewed in the following order:
-  - [data_acquisition](https://github.com/farahdahir/SpaceX_Falcon9/data_acquisition.ipynb)
-  - [eda](https://github.com/farahdahir/SpaceX_Falcon9/eda.ipynb)
+  - [data_acquisition](https://github.com/farahdahir/SpaceX_Falcon9/blob/master/data_acquisition.ipynb)
+  - [eda](https://github.com/farahdahir/SpaceX_Falcon9/blob/master/eda.ipynb)
+  - [launch_site_analysis](https://github.com/farahdahir/SpaceX_Falcon9/blob/master/launch_site_analysis.ipynb)
+  - [plotly_dash_app](https://github.com/farahdahir/SpaceX_Falcon9/blob/master/plotly_dash_app.ipynb)
+  - [predictive_model](https://github.com/farahdahir/SpaceX_Falcon9/blob/master/predictive_model.ipynb)
