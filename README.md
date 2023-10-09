@@ -1,6 +1,6 @@
 # **Space X  Falcon 9 First Stage Landing Prediction**
 # Overview
-The goal of this project was to analyze and predict the successful landing of the Falcon 9 first stage. By leveraging data from the SpaceX API, this project seeks to provide valuable insights into the factors influencing rocket landing success and develop a predictive model for future launches.
+The goal of this project was to analyze and predict the successful landing of the Falcon 9 first stage. This project utilized data from the SpaceX API to provide valuable insights into the factors influencing rocket landing success and develop a predictive model for future launches.
 
 By accurately determining whether the first stage will land successfully, we can estimate the cost of a launch.
 
