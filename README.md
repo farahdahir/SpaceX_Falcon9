@@ -26,10 +26,11 @@ This project not only predicts Falcon 9 `first stage landings` but also highligh
 ----
 
 # installation
-- Clone this repo to your computer. `git clone <[repository_url](https://github.com/farahdahir/SpaceX_Falcon9)>`
+- Clone this repo to your computer. `git clone` <[repository_url](https://github.com/farahdahir/SpaceX_Falcon9)>
 - Navigate to the project directory: using `cd SpaceX_Falcon9`
 - Install the required libraries from the `requirements.txt` file using pip: `pip install -r requirements.txt`
 
   # Reviewing the Project
   The project follows a storytelling structure and should be reviewed in the following order:
-  - [data_acquisition](https://github.com/farahdahir/SpaceX_Falcon9/blob/master/data_acquisition.ipynb)
+  - [data_acquisition](https://github.com/farahdahir/SpaceX_Falcon9/data_acquisition.ipynb)
+  - [eda](https://github.com/farahdahir/SpaceX_Falcon9/eda.ipynb)
