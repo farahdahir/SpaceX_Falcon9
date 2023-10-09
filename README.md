@@ -16,4 +16,6 @@ Additionally, launch sites were analyzed to find that all SpaceX sites are locat
 # Modeling and Evaluation
 Before building of predictive models, determination of training labels, data standardization, and the division of the dataset into training and test sets were done. Using GridSearch, the best hyperparameters were attained for SVM, Logistic Regression, KNN models and `Classification Trees` which was the top-performing algorithm. The Decision Tree model achieved a best_score of 88.75% after tuning the hyperparameters and performed with `accuracy of 94.44%`, showcasing its reliability in predicting landing outcomes. The bar plot below shows the accuracy score for all the four predictive models tested in this project.
 
-![Accuracy score of the models](models_accuracy_score.png)
+![Accuracy score of the models](images/models_accuracy_score.png)
+
+# Conclusion
