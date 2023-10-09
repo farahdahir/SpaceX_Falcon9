@@ -25,17 +25,17 @@ This project not only predicts Falcon 9 `first stage landings` but also highligh
 ----
 ----
 
-# installation
+# Installation
 - Clone this repo to your computer. `git clone` <[repository_url](https://github.com/farahdahir/SpaceX_Falcon9)>
 - Navigate to the project directory: using `cd SpaceX_Falcon9`
 - Install the required libraries from the `requirements.txt` file using pip: `pip install -r requirements.txt`
 
-  # Reviewing the Project
-  The project follows a storytelling structure and should be reviewed in the following order:
-  - [data_acquisition](https://github.com/farahdahir/SpaceX_Falcon9/blob/master/data_acquisition.ipynb)
-  - [eda](https://github.com/farahdahir/SpaceX_Falcon9/blob/master/eda.ipynb)
-  - [launch_site_analysis](https://github.com/farahdahir/SpaceX_Falcon9/blob/master/launch_site_analysis.ipynb)
-  - [plotly_dash_app](https://github.com/farahdahir/SpaceX_Falcon9/blob/master/plotly_dash_app.ipynb)
-  - [predictive_model](https://github.com/farahdahir/SpaceX_Falcon9/blob/master/predictive_model.ipynb)
+# Reviewing the Project
+The project follows a storytelling structure and should be reviewed in the following order:
+- [data_acquisition](https://github.com/farahdahir/SpaceX_Falcon9/blob/master/data_acquisition.ipynb)
+- [eda](https://github.com/farahdahir/SpaceX_Falcon9/blob/master/eda.ipynb)
+- [launch_site_analysis](https://github.com/farahdahir/SpaceX_Falcon9/blob/master/launch_site_analysis.ipynb)
+- [plotly_dash_app](https://github.com/farahdahir/SpaceX_Falcon9/blob/master/plotly_dash_app.ipynb)
+- [predictive_model](https://github.com/farahdahir/SpaceX_Falcon9/blob/master/predictive_model.ipynb)
 
 The project also includes a `presentation` PowerPoint file, an `images` folder and `data` folder. Remember all datasets are generated within the notebooks, so you can choose to clear the data folder (if applicable) by running the following command: `rm -rf data/*`
